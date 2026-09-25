@@ -6,7 +6,7 @@
 | 구분 | 내용 |
 |---|---|
 | 범위 | 개념·논리·물리 모델링, 데이터 표준 정의, 원천 이관(raw → stg → core), 품질 점검, 업무 SQL |
-| 도구 | MySQL 8.0, DBeaver, ERDCloud, Python (pandas, pymysql), Excel |
+| 도구 | DBeaver, ERDCloud, Python (pandas, pymysql), Excel |
 | 설정 | 오프라인 매장과 온라인몰을 함께 운영하는 가상의 헬스·뷰티 리테일 기업 |
 
 ---
